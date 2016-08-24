@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zevran/materialize-loader.git"
+    "url": "https://github.com/prolink007/materialize-loader.git"
   },
   "author": {
     "name": "Gaël Reyrol",
@@ -20,7 +20,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zevran/materialize-loader/issues"
+    "url": "https://github.com/prolink007/materialize-loader/issues"
   },
   "peerDependencies": {
     "materialize-css": "^0.97.7"
